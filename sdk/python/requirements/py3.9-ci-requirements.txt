@@ -673,7 +673,7 @@ pyjwt[crypto]==2.8.0
     #   snowflake-connector-python
 pymssql==2.3.0
     # via feast (setup.py)
-pymysql==1.1.0
+pymysql==1.1.1
     # via feast (setup.py)
 pyodbc==5.1.0
     # via feast (setup.py)

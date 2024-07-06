@@ -82,7 +82,7 @@ cachetools==5.3.3
     # via google-auth
 cassandra-driver==3.29.1
     # via feast (setup.py)
-certifi==2024.2.2
+certifi==2024.7.4
     # via
     #   httpcore
     #   httpx
